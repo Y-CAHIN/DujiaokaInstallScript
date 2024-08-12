@@ -16,7 +16,7 @@ Redis端口     6379
 EOF
 }
 
-git clone https://github.com/assimon/dujiaoka.git
+git clone hhttps://github.com/Cassianvale/dujiaoka-mcq.git
 cd dujiaoka
 git reset --hard 6bf5f3d5fdc00f94afdceedeb1ec1da5a99e5884
 cd -
